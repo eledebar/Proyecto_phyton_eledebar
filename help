@@ -1,3 +1,10 @@
+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
+
+
+
+
+
+
 //METODOS CON STREAMS:
 	public Long obtenerNumeroClientesXGeneroYMiembro(Gender gen, Boolean mem) {
 //		Dado un "Género" y un valor de "Miembro", devuelve el total de clientes que cumplen
